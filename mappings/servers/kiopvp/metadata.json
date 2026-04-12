@@ -1,14 +1,14 @@
 {
     "id": "kiopvp",
     "name": "KioPvP Network",
-    "description": "A network focused on PvP",
+    "description": "The best UHCF network",
     "addresses": [
-        "kiopvp.com"
+        "kiopvp.org"
     ],
-    "primaryAddress": "kiopvp.com",
+    "primaryAddress": "kiopvp.org",
     "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
+        "1.7.10",
+        "1.8.9"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#9d3df6",
@@ -16,7 +16,7 @@
     "primaryLanguage": "en",
     "languages": [
         "en",
-        "es-EN"
+        "NL-EN"
     ],
     "primaryRegion": "EU",
     "regions": [
@@ -24,12 +24,10 @@
     ],
     "gameTypes": [
         "HCF",
-        "PvP"
+        "UHCF"
     ],
-    "store": "https://store.kiopvp.com/",
+    "store": "https://store.kiopvp.org/",
     "socials": {
-        "twitter": "kiopvpnetwork",
-        "discord": "https://discord.gg/KgEjg6aMh4",
-        "telegram": "kiopvp"
+        "discord": "https://discord.gg/uhcf"
     }
 }
