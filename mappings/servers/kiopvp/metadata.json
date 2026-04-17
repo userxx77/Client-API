@@ -16,7 +16,7 @@
     "primaryLanguage": "en",
     "languages": [
         "en",
-        "NL-EN"
+        "es-EN"
     ],
     "primaryRegion": "EU",
     "regions": [
@@ -24,7 +24,7 @@
     ],
     "gameTypes": [
         "HCF",
-        "UHCF"
+        "UHC"
     ],
     "store": "https://store.kiopvp.org/",
     "socials": {
